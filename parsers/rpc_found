@@ -1,0 +1,159 @@
+RPC for Ethereum Mainnet : https://eth.llamarpc.com
+RPC for BNB Smart Chain Mainnet : https://1rpc.io/bnb
+RPC for Arbitrum One : https://arb-mainnet.g.alchemy.com/v2/demo
+No rpc found for Blast Testnet
+RPC for Base : https://public.stackup.sh/api/v1/node/base-mainnet
+RPC for Avalanche C-Chain : https://1rpc.io/avax/c
+RPC for Polygon Mainnet : https://polygon.rpc.blxrbdn.com
+RPC for OP Mainnet : https://public.stackup.sh/api/v1/node/optimism-mainnet
+RPC for Linea : https://1rpc.io/linea
+RPC for Cronos Mainnet : https://mmf-rpc.xstaking.sg
+RPC for Mantle : https://rpc.ankr.com/mantle
+RPC for Gnosis : https://gnosis.drpc.org
+RPC for PulseChain : https://rpc.pulsechain.com
+RPC for Filecoin - Mainnet : https://infura.sftproject.io/filecoin/rpc/v1
+RPC for Kava : https://evm.kava-rpc.com
+RPC for Rootstock Mainnet : https://public-node.rsk.co
+RPC for Fantom Opera : https://rpc.fantom.network
+RPC for Celo Mainnet : https://forno.celo.org
+RPC for Metis Andromeda Mainnet : https://metis.drpc.org
+RPC for Fusion Mainnet : https://mainnet.fusionnetwork.io
+RPC for Klaytn Mainnet Cypress : https://klaytn-mainnet-rpc.allthatnode.com:8551
+RPC for Manta Pacific Mainnet : https://1rpc.io/manta
+RPC for Telos EVM Mainnet : https://mainnet15.telos.net/evm
+RPC for Astar : https://evm.astar.network
+No rpc found for Moonbeam
+RPC for IoTeX Network Mainnet : https://babel-api.mainnet.iotex.one
+RPC for Core Blockchain Mainnet : https://rpc.coredao.org
+RPC for Canto : https://canto.dexvaults.com
+RPC for Conflux eSpace : https://conflux-espace-public.unifra.io
+RPC for Aurora Mainnet : https://aurora.drpc.org
+RPC for Flare Mainnet : https://01-gravelines-003-01.rpc.tatum.io/ext/bc/C/rpc
+RPC for XDC Network : https://earpc.xinfin.network
+RPC for Carbon EVM : https://evm-api.carbon.network
+RPC for OKXChain Mainnet : https://oktc-mainnet.public.blastapi.io
+RPC for Moonriver : https://moonriver-rpc.publicnode.com
+RPC for Meter Mainnet : https://meter.blockpi.network/v1/rpc/public
+RPC for Smart Bitcoin Cash : https://global.uat.cash
+RPC for Boba Network : https://gateway.tenderly.co/public/boba-ethereum
+RPC for Zilliqa EVM : https://api.zilliqa.com
+RPC for Ultron Mainnet : https://ultron-rpc.net
+RPC for Beam : https://build.onbeam.com/rpc
+RPC for Dogechain Mainnet : https://dogechain.ankr.com
+RPC for Songbird Canary-Network : https://songbird.enosys.global/ext/C/rpc
+RPC for Oasys Mainnet : https://rpc.mainnet.oasys.games
+RPC for Wanchain : https://gwan2-ssl.wandevs.org
+RPC for Rollux Mainnet : wss://rollux.pollum.services/wss
+RPC for Elastos Smart Chain : https://api.trinity-tech.io/esc
+No rpc found for Vision - Mainnet
+RPC for Harmony Mainnet Shard 0 : https://api.s0.t.hmny.io
+No rpc found for ONUS Chain Mainnet
+RPC for Evmos : https://jsonrpc-evmos-ia.cosmosia.notional.ventures
+RPC for Theta Mainnet : https://eth-rpc-api.thetatoken.org/rpc
+RPC for CoinEx Smart Chain Mainnet : https://rpc3.coinex.net
+RPC for Fuse Mainnet : https://fuse.drpc.org
+RPC for KCC Mainnet : https://rpc-mainnet.kcc.network
+RPC for Velas EVM Mainnet : https://explorer.velas.com/rpc
+RPC for Huobi ECO Chain Mainnet : https://http-mainnet.hecochain.com
+RPC for Oasis Emerald : https://emerald.oasis.io
+RPC for ThunderCore Mainnet : https://mainnet-rpc.thundertoken.net
+RPC for Neon EVM Mainnet : https://neon-evm.drpc.org
+RPC for Chiliz Chain : https://chiliz.publicnode.com
+RPC for Syscoin Mainnet : https://rpc.pollum.services
+RPC for Ethereum Classic : https://rpc.etcinscribe.com
+RPC for Step Network : https://rpc.step.network
+RPC for Bitrock Mainnet : https://connect.bit-rock.io
+RPC for Energy Web Chain : https://rpc.energyweb.org
+RPC for Tomb Chain Mainnet : https://rpc.tombchain.com
+RPC for opBNB Mainnet : https://opbnb-mainnet.nodereal.io/v1/64a9df0874fb4a93b9d0a3849de012d3
+RPC for Nahmii Mainnet : https://l2.nahmii.io
+No rpc found for LoopNetwork Mainnet
+RPC for Omax Mainnet : https://mainapi.omaxray.com
+RPC for Godwoken Mainnet : https://v1.mainnet.godwoken.io/rpc
+RPC for Shiden : https://shiden-rpc.dwellir.com
+RPC for Ubiq : https://rpc.octano.dev
+RPC for Tenet : https://rpc.tenet.org
+RPC for REI Network : https://rpc.rei.network
+RPC for JIBCHAIN L1 : https://rpc-l1.jbc.xpool.pw
+RPC for High Performance Blockchain : https://hpbnode.com
+RPC for GoChain : https://rpc.gochain.io
+RPC for Bitgert Mainnet : https://flux-rpc1.brisescan.com
+RPC for Callisto Mainnet : https://rpc.callisto.network
+RPC for REI Chain Mainnet : https://rei-rpc.moonrhythm.io
+RPC for Palm : https://palm-mainnet.public.blastapi.io
+RPC for Expanse Network : https://node.expanse.tech
+RPC for Ropsten : https://rpc.ankr.com/eth_ropsten
+RPC for Rinkeby : https://rpc.ankr.com/eth_rinkeby
+RPC for Goerli : https://rpc.goerli.mudit.blog
+RPC for ThaiChain : https://rpc.thaichain.org
+No rpc found for Ubiq Network Testnet
+RPC for Metadium Mainnet : https://api.metadium.com/dev
+RPC for Metadium Testnet : https://api.metadium.com/dev
+RPC for Diode Testnet Staging : https://staging.diode.io:8443
+RPC for Diode Prenet : https://prenet.diode.io:8443
+RPC for Songbird Testnet Coston : https://coston.enosys.global/ext/C/rpc
+RPC for ThaiChain 2.0 ThaiFi : https://rpc.thaifi.com
+RPC for ThunderCore Testnet : https://thundercore-testnet.drpc.org
+RPC for Elastos Smart Chain Testnet : https://api-testnet.elastos.io/eth
+RPC for ELA-DID-Sidechain Mainnet : https://api.trinity-tech.io/eid
+No rpc found for ELA-DID-Sidechain Testnet
+RPC for KardiaChain Mainnet : https://rpc.kardiachain.io
+No rpc found for Genesis L1 testnet
+RPC for ShibaChain : https://rpc.shibachain.net
+RPC for Genesis L1 : https://rpc.genesisl1.org
+RPC for Rootstock Testnet : https://public-node.testnet.rsk.co
+RPC for GoodData Testnet : https://test2.goodata.io
+RPC for GoodData Mainnet : https://rpc.goodata.io
+No rpc found for SecureChain Mainnet
+RPC for TBWG Chain : https://rpc.tbwg.io
+RPC for Dxchain Mainnet : https://mainnet.dxchain.com
+RPC for Xpla Mainnet : https://dimension-evm-rpc.xpla.dev
+RPC for Valorbit : https://rpc.valorbit.com/v2
+RPC for U2U Solaris Mainnet : https://rpc-mainnet.uniultra.xyz
+RPC for Telos EVM Testnet : https://telos-testnet.drpc.org
+RPC for LUKSO Mainnet : https://rpc.lukso.sigmacore.io
+RPC for Darwinia Pangolin Testnet : https://pangolin-rpc.darwinia.network
+RPC for Crab Network : https://crab-rpc.darwiniacommunitydao.xyz
+RPC for Darwinia Pangoro Testnet : https://pangoro-rpc.darwinia.network
+RPC for Darwinia Network : https://darwinia-rpc.dwellir.com
+RPC for Acria IntelliChain : https://aic.acria.ai
+No rpc found for Ennothem Mainnet Proterozoic
+No rpc found for Ennothem Testnet Pioneer
+RPC for XDC Apothem Network : https://apothem.xdcrpc.com
+No rpc found for CoinEx Smart Chain Testnet
+No rpc found for Openpiece Mainnet
+RPC for Zyx Mainnet : https://rpc-3.zyx.network
+RPC for Ontology Mainnet : https://dappnode2.ont.io:10339
+RPC for Mordor Testnet : https://rpc.mordor.etccooperative.org
+RPC for Ellaism : https://jsonrpc.ellaism.org
+RPC for OKExChain Testnet : https://exchaintestrpc.okex.org
+No rpc found for DBChain Testnet
+RPC for SoterOne Mainnet : https://rpc.soter.one
+RPC for Optimism Kovan : https://kovan.optimism.io
+RPC for Hoo Smart Chain : https://http-mainnet2.hoosmartchain.com
+RPC for Conflux eSpace (Testnet) : https://evmtestnet.confluxrpc.com
+RPC for DxChain Testnet : https://testnet-http.dxchain.com
+RPC for FNCY : https://fncy-seed1.fncy.world
+RPC for IDChain Mainnet : https://idchain.one/rpc
+RPC for Decimal Smart Chain Mainnet : https://node4-mainnet.decimalchain.com/web3
+No rpc found for Mix
+No rpc found for POA Network Sokol
+RPC for PrimusChain mainnet : https://ethnode.primusmoney.com/mainnet
+RPC for Zenith Mainnet : https://dataserver-asia-5.zenithchain.co
+RPC for GeneChain : website:https://genechain.io/en/index.html
+RPC for Japan Open Chain Mainnet : https://rpc-2.japanopenchain.org:8545
+RPC for Meter Testnet : https://rpctest.meter.io
+RPC for Linqto Devnet : https://linqto-dev.com
+RPC for GateChain Testnet : https://testnet.gatenode.cc
+RPC for GateChain Mainnet : https://evm.gatenode.cc
+RPC for Nova Network : https://connect.novanetwork.io
+RPC for Viction : https://rpc.tomochain.com
+RPC for Viction Testnet : https://rpc-testnet.viction.xyz
+No rpc found for Garizon Stage0
+No rpc found for Garizon Stage1
+No rpc found for Garizon Stage2
+RPC for Garizon Stage3 : https://s3.garizon.net/rpc
+RPC for SwissDLT : https://rpc.swissdlt.ch
+RPC for CamDL Mainnet : https://rpc1.camdl.gov.kh
+RPC for Bitkub Chain : https://rpc.bitkubchain.io
+RPC for BNB Smart Chain Testnet : https://data-seed-prebsc-1-s3.bnbchain.org:8545
